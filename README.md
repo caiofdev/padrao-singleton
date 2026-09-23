@@ -1,21 +1,3 @@
 # padrao-singleton
 
-Exemplo mínimo do padrão de projeto Singleton em Java 17, gerenciado com Maven.
-
-## Executar os testes
-
-```bash
-mvn test
-```
-
-## Compilar
-
-```bash
-mvn package
-```
-
-## Executar o exemplo
-
-```bash
-mvn compile exec:java -Dexec.mainClass=br.com.exemplo.singleton.Main
-```
+<img width="1921" height="890" alt="image" src="https://github.com/user-attachments/assets/c281e413-16c6-4289-8729-d3d33ff969f3" />
